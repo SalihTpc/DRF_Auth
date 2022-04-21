@@ -1,5 +1,5 @@
 git clone https://github.com/SalihTpc/DRF_Auth.git <br>
-cd .\FlightReservationApp\ <br>
+cd .\DRF_Auth\ <br>
 py -m venv env OR python3 -m venv env <br>
 .\env\Scripts\activate OR source env/bin/activate <br>
 
